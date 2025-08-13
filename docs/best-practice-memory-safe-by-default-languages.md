@@ -26,7 +26,7 @@ TO DO
 
 ## Swift
 
-* Enable [Swift 6 data race safety checking](https://swift.org/migration)
+* Enable [Swift 6 data race safety checking](https://swift.org/migration/documentation/swift-6-concurrency-migration-guide/enabledataracesafety)
 * Avoid the use of unsafe types and functions
 * Encapsulate the use of unsafe C APIs in safe Swift wrappers
 
